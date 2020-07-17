@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 Hackathon wins:
 
 ![Hackathon winning projects]
-(https://github.com/azimshaik/azimshaik/blob/master/Hackathon%20Winning%20Projects.png)
+(https://github.com/azimshaik/azimshaik/blob/master/Hackathon%20Winning%20Projects.png?raw=true)
 
