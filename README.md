@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Making the world a better place to live
-- :computer:
+- :computer: Masters in Computer Science from Kent State, MBA from University of Illinois Urbana-Champaign 2020-2022
 - 🌱 I’m currently learning react native & kafka. (I know that sounds like odd combination)
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with building the next big thing
