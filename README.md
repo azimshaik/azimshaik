@@ -1,4 +1,4 @@
-### Hi there 👋 I am Azim!
+### Hi there 👋 I am Azim! Just a kid from small town Nellore AP26
 
 <!--
 **azimshaik/azimshaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
