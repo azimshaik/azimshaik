@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 -->
+![bgm](https://github.com/azimshaik/azimshaik/blob/master/10996343_10205040514846413_6588318681728088707_n.jpg)
 -  Just a kid from small town Nellore AP26
 - 🔭 I’m currently working on Making the world a better place to live
 - :computer: Masters in Computer Science from Kent State, MBA from University of Illinois Urbana-Champaign 2020-2022
