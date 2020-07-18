@@ -1,10 +1,10 @@
-### Hi there 👋 I am Azim! Just a kid from small town Nellore AP26
-
+### Hi there 👋 I am Azim!
 <!--
 **azimshaik/azimshaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+-  Just a kid from small town Nellore AP26
 - 🔭 I’m currently working on Making the world a better place to live
 - :computer: Masters in Computer Science from Kent State, MBA from University of Illinois Urbana-Champaign 2020-2022
 - 🌱 I’m currently learning react native & kafka. (I know that sounds like odd combination)
